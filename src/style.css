@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  background: blue;
+}
+
+@font-face {
+  font-family: 'anticon_user';  /* project id 1034459 */
+  src: url('//at.alicdn.com/t/font_1034459_3eajnohp1z1.eot');
+  src: url('//at.alicdn.com/t/font_1034459_3eajnohp1z1.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1034459_3eajnohp1z1.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1034459_3eajnohp1z1.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1034459_3eajnohp1z1.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1034459_3eajnohp1z1.svg#anticon_user') format('svg');
+}
+
+.iconfont {
+  font-family: 'anticon_user' !important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
