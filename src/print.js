@@ -1,3 +1,3 @@
-export default function printMe() {
-  console.log(process.env);
+export default function printMe () {
+  console.log(process.env)
 }
