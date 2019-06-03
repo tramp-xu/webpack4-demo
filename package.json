@@ -1,8 +1,8 @@
 {
-  "name": "pixiWeb",
+  "name": "webpack-demo",
   "version": "1.0.0",
   "description": "",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --progress --inline --open --colors --config build/webpack.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1",
